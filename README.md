@@ -1,5 +1,3 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:009845,100:0A2540&height=220&section=header&text=Isaac%20Iligaray&fontSize=70&fontColor=ffffff&animation=twinkle)
-
 # Hi there, I'm Isaac Iligaray Soto 👋
 
 Industrial Civil Engineer and Master's student in Industrial Engineering Sciences at Universidad Técnica Federico Santa María. Focused on the complete data lifecycle: from building and cleaning massive datasets to predictive modeling, validation, and deploying AI solutions.
