@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
+</p>
+
 # Hi there, I'm Isaac Iligaray Soto 👋
 
 Industrial Civil Engineer and Master's student in Industrial Engineering Sciences at Universidad Técnica Federico Santa María. Focused on the complete data lifecycle: from building and cleaning massive datasets to predictive modeling, validation, and deploying AI solutions.
@@ -24,13 +28,13 @@ Industrial Civil Engineer and Master's student in Industrial Engineering Science
 
 ## 🚀 Featured Projects
 
-### 📊 [Scoring de Riesgo Crediticio para Pymes](https://github.com/tu-usuario/scoring-riesgo-pymes)
+### 📊 [Scoring de Riesgo Crediticio para Pymes](https://github.com/isaaciligaraysoto/scoring-riesgo-pymes)
 Desarrollo de un modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7.
 * **Core:** Comparación de Regresión Logística (baseline) y XGBoost integrando variables tradicionales y alternativas.
 * **Validation & Metrics:** Evaluación avanzada mediante AUC-ROC, precision-recall y validación cruzada k-fold.
 * **Explainability:** Implementación de SHAP para identificar brechas de medición de riesgo en empresas solventes bajo ratios tradicionales.
 
-### 🤖 [Agente IA para Mantenimiento Predictivo](https://github.com/tu-usuario/agente-ia-activos)
+### 🤖 [Agente IA para Mantenimiento Predictivo](https://github.com/isaaciligaraysoto/agente-ia-activos)
 Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y la gestión de riesgo operacional en industrias intensivas en activos.
 * **Data & Risk:** Procesamiento de datos operacionales de maquinaria para estimar probabilidades de falla y priorizar activos críticos.
 * **AI Integration:** Conexión mediante API a un Modelo de Lenguaje Grande (LLM) para interpretar métricas de riesgo y generar recomendaciones claras para el personal de mantenimiento.
@@ -46,5 +50,5 @@ Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y l
 ---
 
 ## 📬 Connect with me
-* **LinkedIn:** [linkedin.com/in/isaaciligaraysoto](https://linkedin.com/in/tu-usuario)
+* **LinkedIn:** [linkedin.com/in/isaaciligaraysoto](https://linkedin.com/in/isaaciligaraysoto)
 * **Email:** isaac.iligarays@outlook.com
