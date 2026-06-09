@@ -28,13 +28,13 @@ Industrial Civil Engineer and Master's student in Industrial Engineering Science
 
 ## 🚀 Featured Projects
 
-### 📊 [Scoring de Riesgo Crediticio para Pymes](https://github.com/isaaciligaraysoto/scoring-riesgo-pymes)
+### 📊 [Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)
 Desarrollo de un modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7.
 * **Core:** Comparación de Regresión Logística (baseline) y XGBoost integrando variables tradicionales y alternativas.
 * **Validation & Metrics:** Evaluación avanzada mediante AUC-ROC, precision-recall y validación cruzada k-fold.
 * **Explainability:** Implementación de SHAP para identificar brechas de medición de riesgo en empresas solventes bajo ratios tradicionales.
 
-### 🤖 [Agente IA para Mantenimiento Predictivo](https://github.com/isaaciligaraysoto/agente-ia-activos)
+### 🤖 [Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)
 Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y la gestión de riesgo operacional en industrias intensivas en activos.
 * **Data & Risk:** Procesamiento de datos operacionales de maquinaria para estimar probabilidades de falla y priorizar activos críticos.
 * **AI Integration:** Conexión mediante API a un Modelo de Lenguaje Grande (LLM) para interpretar métricas de riesgo y generar recomendaciones claras para el personal de mantenimiento.
