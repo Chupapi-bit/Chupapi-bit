@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/banner3.jpg" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
+  <img src="imagenes/banner4.jpg" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
 </p>
 
 <h1 align="center">Hola a todos, Isaac por acá, bienvenidos a mi GitHub</h1>
