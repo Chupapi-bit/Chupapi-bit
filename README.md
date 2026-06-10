@@ -6,27 +6,26 @@
 
 Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ingeniería Industrial, con foco en Analítica y Ciencia de Datos. Mi camino académico y profesional se centra en la búsqueda de soluciones innovadoras para la industria, potenciando el valor de los datos.
 
-<table>
-  <tr>
-    <td width="60%" style="border:none;">
-      <h3>🧠 Core (Uso Diario)</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stata-0A2540?style=flat-square&logo=stata&logoColor=white" />
-      <br><br>
-      <h3>🧰 Otras Herramientas</h3>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
-      <img src="https://img.shields.io/badge/MATLAB-ED6B16?style=flat-square&logo=mathworks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-    </td>
-    <td width="40%" style="border:none;">
-      <img src="https://images.unsplash.com/photo-1551288049-bbda38a5f452?auto=format&fit=crop&q=80&w=400&h=300" alt="Data Science Illustration">
-    </td>
-  </tr>
-</table>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <b>🧠 Core (Uso Diario y Dominio Avanzado)</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stata-0A2540?style=flat-square&logo=stata&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🧰 Otras Herramientas y Lenguajes</b><br>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED6B16?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bizagi-7AB800?style=flat-square&logo=bizagi&logoColor=white" />
+</p>
+
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
