@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
+  <img src="banner2.png" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
 </p>
 
 # Hi there, I'm Isaac Iligaray Soto 👋
