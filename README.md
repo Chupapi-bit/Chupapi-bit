@@ -2,9 +2,9 @@
   <img src="imagenes/banner3.jpg" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
 </p>
 
-<h1 align="center">Hola a todos, Isaac por acá, bienvenidos a mi Github</h1>
+<h1 align="center">Hola a todos, Isaac por acá, bienvenidos a mi GitHub</h1>
 
-Soy estudiante de Ingeniería Civil Indsutrial y Magister en Ciencias de la Ingeniería Industrial con foco en Analitica y Ciencia de Datos.
+Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ingeniería Industrial, con foco en Analítica y Ciencia de Datos. Mi camino académico y profesional se centra en la búsqueda de soluciones innovadoras para la industria, potenciando el valor de los datos.
 
 ## 🛠️ Tech Stack & Tools
 
