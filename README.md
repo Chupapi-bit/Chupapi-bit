@@ -6,10 +6,10 @@
 
 Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ingeniería Industrial, con foco en Analítica y Ciencia de Datos. Mi camino académico y profesional se centra en la búsqueda de soluciones innovadoras para la industria, potenciando el valor de los datos.
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
-  <b>🧠 Core (Uso Diario y Dominio Avanzado)</b><br>
+  <b> Core </b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
@@ -17,7 +17,7 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 </p>
 
 <p align="center">
-  <b>🧰 Otras Herramientas y Lenguajes</b><br>
+  <b> Otras Herramientas y Lenguajes</b><br>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED6B16?style=flat-square&logo=mathworks&logoColor=white" />
@@ -25,6 +25,20 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bizagi-7AB800?style=flat-square&logo=bizagi&logoColor=white" />
 </p>
+
+<p align="center">
+  <b> Machine Learning & Analytics</b><br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
