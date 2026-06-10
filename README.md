@@ -8,13 +8,13 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧠 Core (Uso Diario y Dominio Avanzado)
+### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-0A2540?style=flat-square&logo=stata&logoColor=white)
 
-### 🧰 Otras Herramientas y Lenguajes (Experiencia en Proyectos)
+### Otras Herramientas y Lenguajes
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B16?style=flat-square&logo=mathworks&logoColor=white)
