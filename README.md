@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola a todos, Isaac por acá, bienvenidos a mi GitHub</h1>
 
-Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ingeniería Industrial, con foco en Analítica y Ciencia de Datos. Mi camino académico y profesional se centra en la búsqueda de soluciones innovadoras para la industria, potenciando el valor de los datos.
+Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ingeniería Industrial, con foco en Analítica y Ciencia de Datos. Mi camino académico y profesional se centra en la búsqueda de soluciones innovadoras para la industria, potenciando el valor de los datos. Actualmente me encuentro trabajando como asistente de investigación, en donde tengo que procesar (extraer, transformar y cargar) grandes volumenes de datos, analizar y estimar modelos complejos. 
 
 ## Tech Stack & Tools
 
