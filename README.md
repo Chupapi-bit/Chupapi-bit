@@ -30,11 +30,6 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Deployment & Business Intelligence
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Qlik](https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
