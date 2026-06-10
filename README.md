@@ -2,9 +2,9 @@
   <img src="imagenes/banner3.jpg" alt="Msc. Ing. Isaac Iligaray - Data Scientist Banner" width="100%">
 </p>
 
-<h1 align="center">Hola a todos, Isaac por acá</h1>
+<h1 align="center">Hola a todos, Isaac por acá, bienvenidos a mi Github</h1>
 
-Industrial Civil Engineer and Master's student in Industrial Engineering Sciences at Universidad Técnica Federico Santa María. Focused on the complete data lifecycle: from building and cleaning massive datasets to predictive modeling, validation, and deploying AI solutions.
+Soy estudiante de Ingeniería Civil Indsutrial y Magister en Ciencias de la Ingeniería Industrial con foco en Analitica y Ciencia de Datos.
 
 ## 🛠️ Tech Stack & Tools
 
