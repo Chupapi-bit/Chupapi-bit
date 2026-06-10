@@ -8,10 +8,21 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages & Core Engineering
+### 🧠 Core (Uso Diario y Dominio Avanzado)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-0A2540?style=flat-square&logo=stata&logoColor=white)
+
+### 🧰 Otras Herramientas y Lenguajes (Experiencia en Proyectos)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED6B16?style=flat-square&logo=mathworks&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Bizagi](https://img.shields.io/badge/Bizagi-7AB800?style=flat-square&logo=bizagi&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-002D62?style=flat-square&logo=ibm&logoColor=white)
+![AMPL](https://img.shields.io/badge/AMPL-DarkRed?style=flat-square)
 
 ### Machine Learning & Analytics
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
