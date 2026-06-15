@@ -49,7 +49,11 @@ Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y l
 * **Data & Risk:** Procesamiento de datos operacionales de maquinaria para estimar probabilidades de falla y priorizar activos críticos.
 * **AI Integration:** Conexión mediante API a un Modelo de Lenguaje Grande (LLM) para interpretar métricas de riesgo y generar recomendaciones claras para el personal de mantenimiento.
 * **Interface:** Interfaz interactiva y funcional completamente construida en Python y Streamlit.
+* **Gestión del Proyecto:** Uso de metodologías ágiles para la planificación del roadmap y priorización de tareas.
 
+<a href="https://github.com/users/IsaacIligaray-hub/projects/1">
+  <img src="https://img.shields.io/badge/GitHub_Projects-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 ## 🎓 Academic & Research Focus
