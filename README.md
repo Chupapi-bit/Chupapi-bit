@@ -54,6 +54,7 @@ Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y l
 <a href="https://github.com/users/IsaacIligaray-hub/projects/3">
   <img src="https://img.shields.io/badge/GitHub_Projects-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 ---
 
 ## 🎓 Academic & Research Focus
