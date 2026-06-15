@@ -51,7 +51,7 @@ Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y l
 * **Interface:** Interfaz interactiva y funcional completamente construida en Python y Streamlit.
 * **Gestión del Proyecto:** Uso de metodologías ágiles para la planificación del roadmap y priorización de tareas.
 
-<a href="https://github.com/users/IsaacIligaray-hub/projects/1">
+<a href="https://github.com/users/IsaacIligaray-hub/projects/3">
   <img src="https://img.shields.io/badge/GitHub_Projects-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 ---
