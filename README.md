@@ -66,4 +66,3 @@ Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y l
 
 ## 📬 Connect with me
 * **LinkedIn:** [linkedin.com/in/isaaciligaraysoto](https://linkedin.com/in/isaaciligaraysoto)
-* **Email:** isaac.iligarays@outlook.com
