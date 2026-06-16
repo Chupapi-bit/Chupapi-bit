@@ -6,28 +6,19 @@
 
 Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ingeniería Industrial, con foco en Analítica y Ciencia de Datos. Mi camino académico y profesional se centra en la búsqueda de soluciones innovadoras para la industria, potenciando el valor de los datos. Actualmente me encuentro trabajando como asistente de investigación, en donde tengo que procesar (extraer, transformar y cargar) grandes volumenes de datos, analizar y estimar modelos complejos. 
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <b> Core </b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Stata-0A2540?style=flat-square&logo=stata&logoColor=white" />
-</p>
-
-<p align="center">
-  <b> Otras Herramientas y Lenguajes</b><br>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED6B16?style=flat-square&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=flat-square&logo=qlik&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bizagi-7AB800?style=flat-square&logo=bizagi&logoColor=white" />
-</p>
-
-<p align="center">
-  <b> Machine Learning & Analytics</b><br>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -38,23 +29,10 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 
 ## 🚀 Featured Projects
 
-### 📊 [Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)
-Desarrollo de un modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7.
-* **Core:** Comparación de Regresión Logística (baseline) y XGBoost integrando variables tradicionales y alternativas.
-* **Validation & Metrics:** Evaluación avanzada mediante AUC-ROC, precision-recall y validación cruzada k-fold.
-* **Explainability:** Implementación de SHAP para identificar brechas de medición de riesgo en empresas solventes bajo ratios tradicionales.
-
-### 🤖 [Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)
-Producto Mínimo Viable (MVP) diseñado para optimizar la toma de decisiones y la gestión de riesgo operacional en industrias intensivas en activos.
-* **Data & Risk:** Procesamiento de datos operacionales de maquinaria para estimar probabilidades de falla y priorizar activos críticos.
-* **AI Integration:** Conexión mediante API a un Modelo de Lenguaje Grande (LLM) para interpretar métricas de riesgo y generar recomendaciones claras para el personal de mantenimiento.
-* **Interface:** Interfaz interactiva y funcional completamente construida en Python y Streamlit.
-* **Gestión del Proyecto:** Uso de metodologías ágiles para la planificación del roadmap y priorización de tareas.
-
-<a href="https://github.com/users/IsaacIligaray-hub/projects/3">
-  <img src="https://img.shields.io/badge/GitHub_Projects-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+| Proyecto | Descripción | Enfoque de Ingeniería / Outputs | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)** | Modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7. | • Pipeline de procesamiento de microdatos masivos.<br>• Implementación de SHAP para explicabilidad.<br>• Validación cruzada k-fold y optimización de AUC-ROC. | `Python`, `XGBoost`, `Pandas`, `Scikit-Learn` |
+| **[Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)** | MVP interactivo para optimizar la toma de decisiones y gestión de riesgo operacional en industrias intensivas en activos. | • Arquitectura de integración con API de LLM.<br>• Pipeline de estimación de probabilidad de falla en tiempo real.<br>• Despliegue de interfaz analítica funcional. | `Python`, `Streamlit`, `LLM API`, `NumPy` |
 ---
 
 ## 🎓 Academic & Research Focus
