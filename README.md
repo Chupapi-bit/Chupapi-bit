@@ -29,12 +29,10 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 
 ## 🚀 Featured Projects
 
-| Proyecto | Descripción | Tech Stack |  Managment | 
-| :--- | :--- | :--- | :--- |
-| **[Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)** | MVP interactivo para optimizar la toma de decisiones y gestión de riesgo operacional en industrias intensivas en activos. | `Python`, `Streamlit`, `LLM API`, `NumPy`, `SQL` | <a href="https://github.com/users/IsaacIligaray-hub/projects/3">
-  <img src="https://img.shields.io/badge/GitHub-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a> |
-| **[Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)** | Modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7. | `Python`, `XGBoost`, `Pandas`, `Scikit-Learn` | . |
+| Proyecto | Descripción | Tech Stack | Management |
+| :--- | :--- | :--- | :---: |
+| **[Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)** | MVP interactivo para optimizar la toma de decisiones y gestión de riesgo operacional en industrias intensivas en activos. | `Python`, `Streamlit`, `LLM API`, `NumPy`, `SQL` | <a href="https://github.com/users/IsaacIligaray-hub/projects/3"><img src="https://img.shields.io/badge/GitHub-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" height="20"/></a> |
+| **[Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)** | Modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7. | `Python`, `XGBoost`, `Pandas`, `Scikit-Learn` | - |
 
 ---
 
