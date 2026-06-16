@@ -29,16 +29,12 @@ Soy estudiante de Ingeniería Civil Industrial y Magíster en Ciencias de la Ing
 
 ## 🚀 Featured Projects
 
-| Proyecto | Descripción | Enfoque de Ingeniería / Outputs | Tech Stack |
+| Proyecto | Descripción | Tech Stack |  Managment | 
 | :--- | :--- | :--- | :--- |
-| **[Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)** | Modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7. | • Pipeline de procesamiento de microdatos de empresas.<br>• Implementación de SHAP para explicabilidad.<br>• Validación cruzada k-fold y optimización de AUC-ROC. | `Python`, `XGBoost`, `Pandas`, `Scikit-Learn` |
-| **[Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)** | MVP interactivo para optimizar la toma de decisiones y gestión de riesgo operacional en industrias intensivas en activos. | • Arquitectura de integración con API de LLM.<br>• Pipeline de estimación de probabilidad de falla en tiempo real.<br>• Despliegue de interfaz analítica funcional. | `Python`, `Streamlit`, `LLM API`, `NumPy`, `SQL` |
-
-<p align="center">
-  <a href="https://github.com/users/IsaacIligaray-hub/projects/3">
-    <img src="https://img.shields.io/badge/GitHub_Projects-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| **[Agente IA para Mantenimiento Predictivo](https://github.com/IsaacIligaray-hub/Jardine-PHM)** | MVP interactivo para optimizar la toma de decisiones y gestión de riesgo operacional en industrias intensivas en activos. | `Python`, `Streamlit`, `LLM API`, `NumPy`, `SQL` | <a href="https://github.com/users/IsaacIligaray-hub/projects/3">
+  <img src="https://img.shields.io/badge/GitHub-Management_Board-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a> |
+| **[Scoring de Riesgo Crediticio para Pymes](https://github.com/IsaacIligaray-hub/Score_riesgo)** | Modelo interpretable de riesgo crediticio para pymes chilenas utilizando microdatos masivos de la encuesta ELE-7. | `Python`, `XGBoost`, `Pandas`, `Scikit-Learn` | . |
 
 ---
 
